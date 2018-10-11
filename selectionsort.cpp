@@ -19,6 +19,7 @@ a[i]=temp;
     for(int k=0;k<n;k++){
 
     cout<<a[k];
+	    cout << "boombash, prakhar, aayush, harsh" << endl;
     }
 
 
